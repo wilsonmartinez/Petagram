@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="prueba">PRUEBA</string>
+    <string name="nombre">Puppy Pet</string>
+    <string name="puntos">5</string>
+    <string name="pnombre">nombre</string>
+    <string name="ppuntos">0</string>
+    <string name="button_like">Like</string>
+</resources>
